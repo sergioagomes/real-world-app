@@ -1,4 +1,4 @@
-(ns real-world-api.components.example-component
+(ns real-world-api.components.examplecomponent
   (:require [com.stuartsierra.component :as component]))
   
   (defrecord ExampleComponent
